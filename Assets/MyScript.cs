@@ -9,6 +9,7 @@ public class MyScript : MonoBehaviour {
         print("Congrats, buy yourself a beer");
         print("Something changed");
         print ("Added something else");
+        print("Added a bit more");
 	}
 	
 	// Update is called once per frame
